@@ -1,5 +1,5 @@
 # Desafío Frontend
-Bienvenido(a) al desafío Frontend para ser parte de El Comercio, esperamos que lo realices para poder tenerte pronto por nuestras oficinas. 🔥🎉
+Bienvenido(a) al desafío Frontend para ser parte de El Comercio, esperamos que lo realices para poder tenerte pronto en nuestras oficinas. 🔥🎉
 
 ## Contexto
 Hace algún tiempo hemos comenzado con la transformación digital y se han presentado varias iniciativas de proyectos, han sido tantas que necesitamos de profesionales como tú para ayudarnos con algunos de ellos. Uno de los proyectos, y en el que necesitamos tu apoyo, consiste en crear una aplicación que permita a nuestros lectores suscribirse a nuestros paquetes de diarios impresos en su versión digital.
@@ -8,10 +8,10 @@ Antes de comenzar el proyecto se realizó una investigación en donde se obtuvie
 
 > - El 75% de las posibles suscripciones se realizarán desde un móvil
 > - Por cada segundo que demora en cargar la aplicación se reduce en 18% la posibilidad de una compra
-> - Se espera que al menos el 35% de compradores lleguen desde el resultado de búsqueda.
+> - Se espera que al menos el 35% de compradores provengan de motores de búsqueda.
 
 ## Indicaciones
-La aplicación deberá ser desarrollada con React, haciendo uso de Redux para mantener el estado de la aplicación.
+La aplicación deberá ser desarrollada con React, haciendo uso de Redux para mantener el estado de la aplicación y de React-Router para que cada vista sea una página distinta.
 
 - Antes de comenzar a escribir el código, deberás crear unas tareas que vas a realizar durante el desarrollo.
 - Haz uso de commit's para detallar cada tarea y/o subtarea
