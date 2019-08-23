@@ -2,7 +2,7 @@
 Bienvenido(a) al desafío Frontend para ser parte de El Comercio, esperamos que lo realices para poder tenerte pronto por nuestras oficinas. 🔥🎉
 
 ## Contexto
-Hace algún tiempo hemos comenzado con la transformación digital y se han presentado varias iniciativas de proyectos, han sido tantas que necesitamos de profesionales como tú, que nos ayuden con algunos de ellos. Uno de los proyectos, y en el que necesitamos tu apoyo, consiste en crear una aplicación que permita a nuestros lectores suscribirse a nuestros paquetes de diarios impresos en su versión digital.
+Hace algún tiempo hemos comenzado con la transformación digital y se han presentado varias iniciativas de proyectos, han sido tantas que necesitamos de profesionales como tú para ayudarnos con algunos de ellos. Uno de los proyectos, y en el que necesitamos tu apoyo, consiste en crear una aplicación que permita a nuestros lectores suscribirse a nuestros paquetes de diarios impresos en su versión digital.
 
 Antes de comenzar el proyecto se realizó una investigación en donde se obtuvieron algunas conclusiones que deberías tener en consideración:
 
@@ -14,7 +14,10 @@ Antes de comenzar el proyecto se realizó una investigación en donde se obtuvie
 La aplicación deberá ser desarrollada con React, haciendo uso de Redux para mantener el estado de la aplicación.
 
 - Antes de comenzar a escribir el código, deberás crear unas tareas que vas a realizar durante el desarrollo.
-- Sube tu aplicación en Github
+- Haz uso de commit's para detallar cada tarea y/o subtarea
+- Valida el formulario
+- Haz uso de code splitting
+- Sube tu aplicación a Github
 
 ### UI
 - El concepto de diseño lo encontrarás en el siguiente [link](https://xd.adobe.com/view/95b2cf77-ac47-4c1d-5430-43576b88590e-e383/)
@@ -27,12 +30,12 @@ La aplicación deberá ser desarrollada con React, haciendo uso de Redux para ma
 - No abuses de las librerías externas
 
 ### Puntos a favor (No Obligatorios)
-- En el README.md explica tus tomas de decisiones, como por ejemplo, porque decidiste usar una librería o el porqué de alguna interacción, etc. Asimismo, detalla mejoras que se podrían hacer para una siguiente versión.
+- En el README.md explica tus tomas de decisiones, como por ejemplo, porque decidiste usar una librería o el porqué de alguna interacción, etc. Asimismo, detalla mejoras que podrían hacerse para una siguiente versión.
 - Realiza test de tus componentes
 - Despliega tu aplicación usando [Netlify](https://www.netlify.com), [Heroku](https://www.heroku.com), [Zeit](https://zeit.co) o el que desees.
-- La aplicación es una PWA
+- La aplicación es una PWA personalizada
 
-## Recuerda
-- No importa en qué momento leas o realices este desafío, siempre estamos esperando profesionales como tú que nos permitan superar nuestras metas. 🔥🔥🔥
+### Recuerda
+- Siempre estamos esperando profesionales como tú que nos permitan superar nuestras metas. 🔥
 
 Nos vemos en la oficina 🚀🔥🚀
