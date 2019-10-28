@@ -1,5 +1,5 @@
 # Desafío Frontend
-Bienvenido(a) al desafío Frontend para ser parte de El Comercio, esperamos que lo realices para poder tenerte pronto en nuestras oficinas. 🔥🎉
+Bienvenido(a) al desafío Frontend para ser parte de EC, esperamos que lo realices para poder tenerte pronto en nuestras oficinas. 🔥🎉
 
 ## Contexto
 Hace algún tiempo hemos comenzado con la transformación digital y se han presentado varias iniciativas de proyectos, han sido tantas que necesitamos de profesionales como tú para ayudarnos con algunos de ellos. Uno de los proyectos, y en el que necesitamos tu apoyo, consiste en crear una aplicación que permita a nuestros lectores suscribirse a nuestros paquetes de diarios impresos en su versión digital.
